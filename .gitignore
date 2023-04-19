@@ -1,0 +1,3 @@
+taichi_nerf_env/*
+ckpts/*
+results/*
